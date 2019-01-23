@@ -45,19 +45,3 @@ for(i in 1:5000){
 }
 hist(x_max, nclass = 30, freq = F)
 lines(y, f_y, col = "red")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
