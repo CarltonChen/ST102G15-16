@@ -11,3 +11,9 @@
 
 ### [Week15.R](https://github.com/CarltonChen/ST102G15-16/blob/master/Week15.R)
 * Method of Moment estimation
+
+### [Week17.R](https://github.com/CarltonChen/ST102G15-16/blob/master/Week17.R)
+* Differences between normal and t under different n
+* Normal approximation of the binomial.
+* Normal approximation of the binomial.
+* Confidence Intervals of Chi-square.
